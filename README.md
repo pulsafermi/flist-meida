@@ -34,11 +34,13 @@ Examples;
 `[ytplaylist]https://www.youtube.com/playlist?list=PLkxl7w222NEZBr45FZOL7faYS2rg-ZZw0[/ytplaylist]`
 
 1. For Spotify
-  i. Grab the URL from the share prompt
+- Grab the URL from the share prompt
+
 2. For Youtube Videos
-  i. Grab the URL from your browser's title bar
+- Grab the URL from your browser's title bar
+
 3. For Youtube Playlists
-  i. Go to the Playlist Screen, [it'll look like this](https://www.youtube.com/playlist?list=PLVVOXbE6Ls1i41k-uGbGatM2BP9U91nJB)
-  ii. Grab the URL from your browser's title bar.
+- Go to the Playlist Screen, [it'll look like this](https://www.youtube.com/playlist?list=PLVVOXbE6Ls1i41k-uGbGatM2BP9U91nJB)
+- Grab the URL from your browser's title bar.
 
 Follow the example above.
