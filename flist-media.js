@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Media Embedding
-// @namespace    https://github.com/pulsafermi/flist-music/edit/main/flist-music.js
+// @namespace    https://github.com/pulsafermi/flist-meida/blob/main/flist-media.js
 // @version      1.0
 // @description  Opens a borderless popup for media playlists in F-List BBCode
 // @match        *://*.f-list.net/c/*
